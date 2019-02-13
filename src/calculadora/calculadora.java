@@ -101,6 +101,7 @@ public void resultado(){
         System.out.println("¿Desea introducir otra operacion?   1:Si;2:No");
         metodo=sc.nextInt();
         }while(metodo==1);
+        //Esto es un comentario.
     }
 }
 
