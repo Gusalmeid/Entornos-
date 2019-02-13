@@ -102,6 +102,7 @@ public void resultado(){
         metodo=sc.nextInt();
         }while(metodo==1);
         //Esto es un comentario.
+        //Segunda edicion
     }
 }
 
